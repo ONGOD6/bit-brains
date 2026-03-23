@@ -8,11 +8,11 @@ This document defines the supply constraints for the Bit Brains ecosystem collec
 
 ## Supply Limits
 
-The Pickle Punks NFT collection has a maximum supply of:
+The NODE PICKLES NFT collection has a maximum supply of:
 
 1500 NFTs
 
-The Bit Brains NFT collection has a maximum supply of:
+The BITY NODES NFT collection has a maximum supply of:
 
 1500 NFTs
 

@@ -1,16 +1,16 @@
-# EIP-0001 — Pickle Punks NFT Standard
+# EIP-0001 — NODE PICKLES NFT Standard
 
 ## Abstract
 
-This document defines the standard for the Pickle Punks NFT collection within the Bit Brains ecosystem.
+This document defines the standard for the NODE PICKLES NFT collection within the Bit Brains ecosystem.
 
-Pickle Punks are Ethereum ERC-721 digital collectibles representing pixel-art pickle characters.
+NODE PICKLES are Ethereum ERC-721 digital collectibles representing pixel-art pickle characters.
 
 ---
 
 ## Collection Details
 
-Name: Pickle Punks  
+Name: NODE PICKLES 
 Token Standard: ERC-721  
 Blockchain: Ethereum  
 Maximum Supply: 1500
@@ -19,7 +19,7 @@ Maximum Supply: 1500
 
 ## Metadata Standard
 
-Each Pickle Punk token MUST provide metadata using the ERC-721 metadata extension.
+Each NODE PICKLES token MUST provide metadata using the ERC-721 metadata extension.
 
 Required metadata fields:
 
@@ -31,8 +31,8 @@ Required metadata fields:
 Example:
 
 {
-  "name": "Pickle Punk #1",
-  "description": "A Pickle Punk from the Bit Brains ecosystem.",
+  "name": "NODE PICKLES  #1",
+  "description": "A NODE PICKLES from the Bity Nodes  ecosystem.",
   "image": "ipfs://CID/1.png",
   "attributes": []
 }
@@ -41,7 +41,7 @@ Example:
 
 ## Traits
 
-Traits define visual characteristics of each Pickle Punk.
+Traits define visual characteristics of each NODE PICKLES .
 
 Examples include:
 
@@ -55,6 +55,6 @@ Examples include:
 
 ## Immutability
 
-Once minted, Pickle Punks metadata and supply are immutable.
+Once minted, NODE PICKLES metadata and supply are immutable.
 
 The collection supply cannot exceed the maximum cap.
